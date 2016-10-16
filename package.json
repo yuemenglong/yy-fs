@@ -1,0 +1,25 @@
+{
+  "name": "yy-fs",
+  "version": "1.0.0",
+  "description": "graceful fs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuemenglong/yy-fs.git"
+  },
+  "keywords": [
+    "fs"
+  ],
+  "author": "yuemenglong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuemenglong/yy-fs/issues"
+  },
+  "homepage": "https://github.com/yuemenglong/yy-fs#readme",
+  "dependencies": {
+    "lodash": "^4.16.4"
+  }
+}
